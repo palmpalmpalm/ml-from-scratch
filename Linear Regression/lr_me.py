@@ -39,6 +39,7 @@ if __name__ == '__main__':
     regressor = LinearRegression(lr=1,iters=100)
     regressor.fit(X_train, y_train)
     pd_line = regressor.predict(X_train)
+    #print(regressor.bias)
 
     y_predict_test = regressor.predict(X_test)
 

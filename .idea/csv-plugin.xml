@@ -24,6 +24,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\SVM\SVM.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\^__^\Temperature_Prediction.py">
           <value>
             <Attribute>

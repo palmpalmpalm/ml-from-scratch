@@ -1,2 +1,2 @@
 # ml_from_scratch
-For understanding each machine learning model.
+Implementations of each machine learning model from scratch.

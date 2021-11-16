@@ -1,2 +1,2 @@
-# ml_from_scratch_practice
-practicing machine learning
+# ml_from_scratch
+For understanding each machine learning model.
